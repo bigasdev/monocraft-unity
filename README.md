@@ -1,6 +1,7 @@
 
 # *Monocraft-Unity*
 
+![example](assets/monocraft.png)
 
 ## 📄 Description
 Unity asset for the [Monocraft](https://github.com/IdreesInc/Monocraft) font, it's in bitmap format with a gray outline.
