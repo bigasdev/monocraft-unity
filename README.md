@@ -11,12 +11,8 @@ Unity & npm (optional)
 
 
 ## 🎮 Usage
-```js
-npm monocraft-unity
-``` 
-Inside your unity folder.
 
-If you don't have or don't want to use the package, you can just download the [Assets](/assets) folder and place it inside your unity project.
+Simply download the [Release](https://github.com/bigasdev/monocraft-unity/releases/download/v1.0.0/monocraft-unity.unitypackage) package and install in your unity project.
 
 
 
